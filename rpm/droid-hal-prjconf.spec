@@ -1,4 +1,4 @@
-%define device h4113
+%define device sony-nile
 
 %include droid-hal-prjconf/droid-hal-prjconf.inc
 
