@@ -1,2 +1,4 @@
 # device-specific project conf:
+Prefer: droid-hal-pioneer-devel
+Prefer: droid-hal-pioneer-tools
 
