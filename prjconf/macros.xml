@@ -1,4 +1,4 @@
 # device-specific macros:
 
 %device_rpm_architecture_string armv7hl
-%force_hal 1
+
