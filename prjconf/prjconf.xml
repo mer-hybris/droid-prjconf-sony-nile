@@ -1,3 +1,4 @@
 # device-specific project conf:
 Prefer: droid-hal-pioneer-devel
+Prefer: ohm-configs-default
 
