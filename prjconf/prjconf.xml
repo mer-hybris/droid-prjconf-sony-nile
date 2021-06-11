@@ -1,4 +1,5 @@
 # device-specific project conf:
 Prefer: droid-hal-pioneer-devel
+Prefer: hybris-libsensorfw-qt5-hal
 Prefer: ohm-configs-default
 
